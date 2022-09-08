@@ -1,15 +1,15 @@
 # Project
 ### Team Members
 
-Emmanuel Oh Eu-gene 01327148
+Emmanuel Oh Eu-gene
 
-Liew Xi Wei 01419103
+Liew Xi Wei
 
-Tan Qi En 01365009
+Tan Qi En
 
-Tay Rui Xian 01370868
+Tay Rui Xian
 
-Yap Bing Yu 01410869
+Yap Bing Yu
 
 ### Description
 
