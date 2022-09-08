@@ -1,0 +1,12 @@
+[submodule "src/cs301-spendtxns-frontend"]
+	path = src/cs301-spendtxns-frontend
+	url = git@github.com:emmaneugene/cs301-spendtxns-frontend.git
+[submodule "src/cs301-spendtxns-backend"]
+	path = src/cs301-spendtxns-backend
+	url = git@github.com:emmaneugene/cs301-spendtxns-backend.git
+[submodule "src/cs301-spendtxns-batch"]
+	path = src/cs301-spendtxns-batch
+	url = git@github.com:emmaneugene/cs301-spendtxns-batch.git
+[submodule "src/cs301-spendtxns-lambda"]
+	path = src/cs301-spendtxns-lambda
+	url = git@github.com:emmaneugene/cs301-spendtxns-lambda.git
